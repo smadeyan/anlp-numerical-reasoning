@@ -1,0 +1,7 @@
+{
+    "problem": "The sum of four numbers is one-half. What is the mean of the four numbers? Express your answer as a common fraction.",
+    "level": "Level 2",
+    "type": "Prealgebra",
+    "solution": "Since the mean of four numbers is just their sum divided by four, the mean is $\\dfrac{1/2}{4} = \\boxed{\\frac{1}{8}}$.",
+    "prompt": "{\"question\": \"Fifteen more than a quarter of a number is 27. What is the number?\", \"answer\": \"A quarter of the number is 27-15=<<27-15=12>>12.\\nThe number is 12*4=<<12*4=48>>48.\\n#### 48\"}\n{\"question\": \"What is fifteen more than a quarter of 48?\", \"answer\": \"A quarter of 48 is 48/4=<<48/4=12>>12.\\nThe number is 12+15=<<12+15=27>>27.\\n#### 27\"}\n{\"question\": \"If you double a number and add 5 to the result, then that's 20 more than half of the original number. What's the original number?\", \"answer\": \"Let x be the original number.\\n2*x+5=20+x/2\\n2*x-x/2=15\\n4*x-x=30\\n3*x=30\\nx=<<10=10>>10\\n#### 4\"}\n{\"question\": \"If the sum of two numbers is 33, and if the second number is twice the first number, what is the second number?\", \"answer\": \"The first number is 33/3=<<33/3=11>>11.\\nThe second number is 11*2=<<11*2=22>>22.\\n#### 22\"}"
+}

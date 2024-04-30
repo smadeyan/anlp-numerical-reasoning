@@ -1,0 +1,7 @@
+{
+    "problem": "What is the value of $\\sqrt[3]{3^5 + 3^5 + 3^5}$?",
+    "level": "Level 2",
+    "type": "Algebra",
+    "solution": "Simplify under the radical first: $3^5+3^5+3^5=3\\cdot 3^5=3^6$, and the cube root of $3^6$ is $3^{6/3}=3^2=\\boxed{9}$.",
+    "prompt": "{\"question\": \"If you double a number and add 5 to the result, then that's 20 more than half of the original number. What's the original number?\", \"answer\": \"Let x be the original number.\\n2*x+5=20+x/2\\n2*x-x/2=15\\n4*x-x=30\\n3*x=30\\nx=<<10=10>>10\\n#### 4\"}\n{\"question\": \"If the sum of two numbers is 33, and if the second number is twice the first number, what is the second number?\", \"answer\": \"The first number is 33/3=<<33/3=11>>11.\\nThe second number is 11*2=<<11*2=22>>22.\\n#### 22\"}\n{\"question\": \"Fifteen more than a quarter of a number is 27. What is the number?\", \"answer\": \"A quarter of the number is 27-15=<<27-15=12>>12.\\nThe number is 12*4=<<12*4=48>>48.\\n#### 48\"}\n{\"question\": \"There are 3 numbers that are consecutive integers. Together they have a sum of 18. What is the largest of the 3 numbers?\", \"answer\": \"Let N = smallest number\\nN + 1 = next number\\nN + 2 = largest number\\nN + (N + 1) + (N + 2) = 18\\n3N + 3 = 18\\n3N = <<3*5=15>>15\\nN = <<5=5>>5\\nThe largest number is <<7=7>>7.\\n#### 7\"}"
+}
